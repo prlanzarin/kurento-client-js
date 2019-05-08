@@ -73,9 +73,9 @@
     "kurento-client-core": "^6.0.0",
     "kurento-client-elements": "^6.0.0",
     "kurento-client-filters": "^6.0.0",
-    "kurento-jsonrpc": "^6.0.0",
+    "kurento-jsonrpc": "git+https://github.com/prlanzarin/kurento-jsonrpc-js#update-deps",
     "promisecallback": "0.0.4",
-    "reconnect-ws": "git+https://github.com/prlanzarin/reconnect-ws#update-deps",
+    "reconnect-ws": "KurentoForks/reconnect-ws#master",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
